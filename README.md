@@ -6,7 +6,7 @@
 * Dataset: Pittsburgh Playgrounds https://data.wprdc.org/dataset/playgrounds
 #### Tony Hong
 #### Zac Chen
-* Personal Notebook: Police Arrests (Zac).ipynb
+* Personal Notebook: Police Arrests.ipynb
 * Dataset: Arrests https://data.wprdc.org/dataset/arrest-data
 ## Description
 This repo contains three personal python notebooks that each use a Pittsburgh dataset and a metric to decide what the best neighborhood in Pittsburgh is. The group notebook, Final.ipynb, combines these three answers.
