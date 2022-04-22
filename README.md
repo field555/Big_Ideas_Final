@@ -2,8 +2,8 @@
 ## Team: Very Cool Team, Canvas Group # 67
 ## Members:
 #### Madison Field (maf299@pitt.edu)
-Personal Notebook: Fun-Level.ipynb
-Dataset: Pittsburgh Playgrounds https://data.wprdc.org/dataset/playgrounds
+* Personal Notebook: Fun-Level.ipynb
+* Dataset: Pittsburgh Playgrounds https://data.wprdc.org/dataset/playgrounds
 #### Tony Hong
 #### Zac Chen
 ## Description
