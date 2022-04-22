@@ -7,4 +7,6 @@
 #### Tony Hong
 #### Zac Chen
 ## Description
+* Personal Notebook: Police Arrests (Zac).ipynb
+* Dataset: Arrests https://data.wprdc.org/dataset/arrest-data
 This repo contains three personal python notebooks that each use a Pittsburgh dataset and a metric to decide what the best neighborhood in Pittsburgh is. The group notebook, Final.ipynb, combines these three answers.
