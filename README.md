@@ -1,6 +1,10 @@
 # Big_Ideas_Final
-
-## Team Name: Very Cool Team
+## Team: Very Cool Team, Canvas Group # 67
 ## Members:
-Madison Field, Tony Hong, Zac Chen
-
+#### Madison Field (maf299@pitt.edu)
+Personal Notebook: Fun-Level.ipynb
+Dataset: Pittsburgh Playgrounds https://data.wprdc.org/dataset/playgrounds
+#### Tony Hong
+#### Zac Chen
+## Description
+This repo contains three personal python notebooks that each use a Pittsburgh dataset and a metric to decide what the best neighborhood in Pittsburgh is. The group notebook, Final.ipynb, combines these three answers.
